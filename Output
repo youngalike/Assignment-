@@ -1,0 +1,54 @@
+##########
+# Output
+#
+
+
+Dectecting speech...
+Transcribing...
+result2:
+{   'alternative': [   {   'confidence': 0.89963204,
+                           'transcript': 'this is me testing out my voice to '
+                                         'speech writing program all goes well '
+                                         'this should be transferred to text '
+                                         'thank you'},
+                       {   'transcript': 'this is me testing out my voice to '
+                                         'speech writing problem all goes well '
+                                         'this should be transferred to text '
+                                         'thank you'},
+                       {   'transcript': 'this is my testing out my voice to '
+                                         'speech writing program all goes well '
+                                         'this should be transferred to text '
+                                         'thank you'},
+                       {   'transcript': 'this is me testing out my voice to '
+                                         'speech writing program all goes well '
+                                         'this should be transcribed to text '
+                                         'thank you'},
+                       {   'transcript': 'this is me testing out my voice to '
+                                         'speech fighting program all goes '
+                                         'well this should be transferred to '
+                                         'text thank you'}],
+    'final': True}
+
+
+this is me testing out my voice to speech writing program all goes well this should be transferred to text thank you
+* Transcribed Successfully , Quitting the program now *
+PS C:\Users\chudd> & C:/Users/chudd/anaconda3/python.exe "c:/Users/chudd/Documents/Alike Chukwudi 2019364031 2.py"
+Dectecting speech...
+Transcribing...
+result2:
+{   'alternative': [   {   'confidence': 0.89170462,
+                           'transcript': 'this is me testing out my voice to '
+                                         'speech using python'},
+                       {   'transcript': 'this is me testing out my voice '
+                                         'speech using python'},
+                       {   'transcript': 'this is me testing out my voice to '
+                                         'speech using item'},
+                       {   'transcript': 'this is me testing out my voice to '
+                                         'speech using Titan'},
+                       {   'transcript': 'this is a testing out my voice to '
+                                         'speech using python'}],
+    'final': True}
+
+
+this is me testing out my voice to speech using python
+* Transcribed Successfully , Quitting the program now *
